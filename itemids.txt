@@ -1,0 +1,84 @@
+Here is a list of all the Item IDs i extracted in OneShot. I haven't tested all of them, so some may be dangerous, but theres a very low chance it is.
+
+ID: 1 | Name: lightbulb
+ID: 2 | Name: television remote
+ID: 3 | Name: bottle of alcohol
+ID: 4 | Name: dry branch
+ID: 5 | Name: wet branch
+ID: 6 | Name: torch
+ID: 7 | Name: basement key
+ID: 8 | Name: camera
+ID: 9 | Name: screwdriver
+ID: 10 | Name: lens
+ID: 11 | Name: empty bottle
+ID: 12 | Name: broken battery
+ID: 13 | Name: empty battery
+ID: 14 | Name: charged battery
+ID: 15 | Name: bottle of smoke
+ID: 16 | Name: bottle of acid
+ID: 17 | Name: wet sponge
+ID: 18 | Name: crowbar
+ID: 19 | Name: metal rod
+ID: 20 | Name: sponge
+ID: 21 | Name: empty syringe
+ID: 22 | Name: filled syringe
+ID: 23 | Name: amber
+ID: 24 | Name: strange journal
+ID: 25 | Name: feather
+ID: 26 | Name: bottle of dye
+ID: 27 | Name: tube of water
+ID: 28 | Name: seed
+ID: 29 | Name: wool
+ID: 30 | Name: feather pen
+ID: 31 | Name: die
+ID: 32 | Name: button (?)
+ID: 33 | Name: magnetized (?) button
+ID: 34 | Name: taped button
+ID: 35 | Name: you tried
+ID: 36 | Name: magnets
+ID: 37 | Name: metal can
+ID: 38 | Name: scissors
+ID: 39 | Name: weird film
+ID: 40 | Name: concave lens
+ID: 41 | Name: convex lens
+ID: 42 | Name: thin lens
+ID: 43 | Name: thick lens
+ID: 44 | Name: glitter glue
+ID: 45 | Name: photo of Niko
+ID: 46 | Name: Kip's library card
+ID: 47 | Name: gas mask
+ID: 48 | Name: rubber gloves
+ID: 49 | Name: boots
+ID: 50 | Name: novelty T-shirt
+ID: 51 | Name: "Kip" 's library card
+ID: 52 | Name: Library card (sticky)
+ID: 53 | Name: photo of Niko (sticky)
+ID: 54 | Name: DEBUG SAVE
+ID: 55 | Name: dirt
+ID: 56 | Name: water pill
+ID: 57 | Name: medicated water
+ID: 58 | Name: clover
+ID: 59 | Name: empty tube
+ID: 60 | Name: bottle of pond water
+ID: 61 | Name: photo of Niko
+ID: 62 | Name: photo of Niko
+ID: 63 | Name: photo of Niko
+ID: 64 | Name: photo of Niko
+ID: 65 | Name: photo of Niko
+ID: 66 | Name: photo of Niko
+ID: 67 | Name: photo of Niko
+ID: 68 | Name: photo of Niko
+ID: 69 | Name: photo of Niko
+ID: 70 | Name: photo of Niko
+ID: 71 | Name: Key 1
+ID: 72 | Name: Key 2
+ID: 73 | Name: Key 3
+ID: 74 | Name: glowing journal
+ID: 75 | Name: memory disk
+ID: 76 | Name: memory disk (backup)
+ID: 77 | Name: charged battery
+ID: 78 | Name: music box
+ID: 81 | Name: GEORGE REROLLER
+ID: 82 | Name: PLIGHT SKIP
+
+Unsure why there are 9 copies of the same item.. but im not gonna mind.
