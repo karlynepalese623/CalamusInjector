@@ -1,5 +1,6 @@
 # CalamusInjector
 **A mod-menu/injector for OneShot with a plenty of mod menu options.**
+Tags [for better reachability]: OneShot, OneShot mod menu, OneShot debug, OneShot mod, OneShot menu, OneShot, Ruby language, ruby coding language, ruby code, rpg maker xp, RPG maker xp, 
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/frizzy-cmd/CalamusInjector?color=blue&label=release)](https://github.com/frizzy-cmd/CalamusInjector/releases)
 [![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20mac-purple)](#)
