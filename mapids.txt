@@ -1,0 +1,265 @@
+Map IDs for OneShot. Extracted by Kip. Untested!
+
+Map ID: 1 | Name: INIT
+Map ID: 2 | Name: Start
+Map ID: 3 | Name: Bathroom
+Map ID: 4 | Name: Livingroom
+Map ID: 5 | Name: Basement Stairs
+Map ID: 6 | Name: IGNORE
+Map ID: 7 | Name: Blue
+Map ID: 8 | Name: Green
+Map ID: 9 | Name: Red sky
+Map ID: 10 | Name: Tower
+Map ID: 11 | Name: DEBUG
+Map ID: 12 | Name: Start point
+Map ID: 13 | Name: terminal room
+Map ID: 14 | Name: Outpost
+Map ID: 15 | Name: Outpost interior
+Map ID: 16 | Name: Backroom
+Map ID: 17 | Name: Mineshaft entrance
+Map ID: 18 | Name: Cliffs
+Map ID: 19 | Name: Docks
+Map ID: 20 | Name: basement
+Map ID: 21 | Name: Bed room
+Map ID: 22 | Name: Elevator inside
+Map ID: 23 | Name: Lookout point
+Map ID: 24 | Name: Cabin
+Map ID: 25 | Name: store pan
+Map ID: 26 | Name: basement after sun
+Map ID: 27 | Name: Dock
+Map ID: 28 | Name: Fishing hut
+Map ID: 29 | Name: Village
+Map ID: 30 | Name: House 1 - stew
+Map ID: 31 | Name: House 2 - tower
+Map ID: 32 | Name: House 3
+Map ID: 33 | Name: House 4 - squares
+Map ID: 34 | Name: House 5 - storage
+Map ID: 35 | Name: House 6 - death is coming
+Map ID: 36 | Name: House 7 - are you god
+Map ID: 37 | Name: Ruins Out
+Map ID: 38 | Name: Ruins In
+Map ID: 39 | Name: Maize
+Map ID: 40 | Name: Alula
+Map ID: 41 | Name: Computer Room
+Map ID: 42 | Name: Small Room
+Map ID: 43 | Name: Forest
+Map ID: 44 | Name: Gate
+Map ID: 45 | Name: Inside 2
+Map ID: 46 | Name: Inside 3
+Map ID: 47 | Name: City gate
+Map ID: 48 | Name: Elevator deck
+Map ID: 49 | Name: Apartments
+Map ID: 50 | Name: stairwell
+Map ID: 51 | Name: GeorgeRoom
+Map ID: 52 | Name: Cafe
+Map ID: 53 | Name: Cafe inside
+Map ID: 54 | Name: Garden
+Map ID: 55 | Name: Crossroads
+Map ID: 56 | Name: Teleport
+Map ID: 57 | Name: Junction
+Map ID: 58 | Name: Bedroom
+Map ID: 59 | Name: tutorial
+Map ID: 60 | Name: Summit
+Map ID: 61 | Name: Shatter
+Map ID: 62 | Name: Elevator
+Map ID: 63 | Name: Water
+Map ID: 64 | Name: Livingroom
+Map ID: 65 | Name: Birdhouse
+Map ID: 66 | Name: passage
+Map ID: 67 | Name: burial grounds
+Map ID: 68 | Name: IGNORE
+Map ID: 69 | Name: factory interior
+Map ID: 70 | Name: Old factory
+Map ID: 71 | Name: Dormitories
+Map ID: 72 | Name: Lobby
+Map ID: 73 | Name: Swamp
+Map ID: 74 | Name: Top floor
+Map ID: 75 | Name: server room
+Map ID: 76 | Name: 110 - mechanical drawing
+Map ID: 77 | Name: debug2
+Map ID: 78 | Name: 117 - mom
+Map ID: 79 | Name: 112 - infirmary
+Map ID: 80 | Name: 118 - robot voice
+Map ID: 81 | Name: 113 - ocean
+Map ID: 82 | Name: 119 - cell
+Map ID: 83 | Name: Red ground
+Map ID: 84 | Name: ground 1
+Map ID: 85 | Name: ground 2
+Map ID: 86 | Name: To Tower
+Map ID: 87 | Name: Library entrance
+Map ID: 88 | Name: IGNORE ToFactory
+Map ID: 89 | Name: IGNORE ToLibrary
+Map ID: 90 | Name: Factory Entrance
+Map ID: 91 | Name: backalley
+Map ID: 92 | Name: factory upstairs
+Map ID: 93 | Name: Factory interior2
+Map ID: 94 | Name: upstairs
+Map ID: 95 | Name: Hall1
+Map ID: 96 | Name: Lobby-OLD VER
+Map ID: 97 | Name: X room
+Map ID: 98 | Name: 1st room
+Map ID: 99 | Name: lamplighter house
+Map ID: 100 | Name: ignore
+Map ID: 101 | Name: mineshaft
+Map ID: 102 | Name: server room
+Map ID: 103 | Name: Unused
+Map ID: 104 | Name: courtyard
+Map ID: 105 | Name: left- pools
+Map ID: 106 | Name: right-3d printers
+Map ID: 107 | Name: Bed room
+Map ID: 108 | Name: Power room
+Map ID: 109 | Name: Room1 - bot
+Map ID: 110 | Name: Tower deck
+Map ID: 111 | Name: Hall2
+Map ID: 112 | Name: 2nd room
+Map ID: 113 | Name: Kip
+Map ID: 114 | Name: left-terminals
+Map ID: 115 | Name: right-robots
+Map ID: 116 | Name: Office
+Map ID: 117 | Name: entry room
+Map ID: 118 | Name: big office
+Map ID: 119 | Name: stairwell
+Map ID: 120 | Name: observation deck
+Map ID: 121 | Name: Communal area
+Map ID: 122 | Name: bathroom
+Map ID: 123 | Name: landing
+Map ID: 124 | Name: Room2 - peng
+Map ID: 125 | Name: Room3 - bot friend
+Map ID: 126 | Name: Birdhall
+Map ID: 127 | Name: Research Station
+Map ID: 128 | Name: Courtyard
+Map ID: 129 | Name: Room4 - bird
+Map ID: 130 | Name: Room5 - roomba
+Map ID: 131 | Name: Encounter PENG
+Map ID: 132 | Name: Room6 - plant
+Map ID: 133 | Name: water room
+Map ID: 134 | Name: Photo center
+Map ID: 135 | Name: SECRET RAM CLUB
+Map ID: 136 | Name: Inside 1
+Map ID: 137 | Name: rue
+Map ID: 138 | Name: stairwell-demo
+Map ID: 139 | Name: T1
+Map ID: 140 | Name: T2
+Map ID: 141 | Name: T3
+Map ID: 142 | Name: T4
+Map ID: 143 | Name: T5
+Map ID: 144 | Name: T6
+Map ID: 145 | Name: T7
+Map ID: 146 | Name: T8
+Map ID: 147 | Name: T9
+Map ID: 148 | Name: T10
+Map ID: 149 | Name: T11
+Map ID: 150 | Name: T12
+Map ID: 151 | Name: T13
+Map ID: 152 | Name: T14
+Map ID: 153 | Name: T15
+Map ID: 154 | Name: T16
+Map ID: 155 | Name: Step
+Map ID: 156 | Name: Sunroom
+Map ID: 157 | Name: C1
+Map ID: 158 | Name: C2
+Map ID: 159 | Name: C3
+Map ID: 160 | Name: C5
+Map ID: 161 | Name: C4
+Map ID: 162 | Name: C6
+Map ID: 163 | Name: C7
+Map ID: 164 | Name: C1
+Map ID: 165 | Name: UNUSED
+Map ID: 166 | Name: C2
+Map ID: 167 | Name: S1
+Map ID: 168 | Name: C3
+Map ID: 169 | Name: C4
+Map ID: 170 | Name: C5
+Map ID: 171 | Name: C6
+Map ID: 172 | Name: C7
+Map ID: 173 | Name: S4
+Map ID: 174 | Name: S2
+Map ID: 175 | Name: S3
+Map ID: 176 | Name: guest room
+Map ID: 177 | Name: Entry ruins
+Map ID: 178 | Name: 2
+Map ID: 179 | Name: Water2
+Map ID: 180 | Name: Start
+Map ID: 181 | Name: Bathroom
+Map ID: 182 | Name: Livingroom
+Map ID: 183 | Name: Basement Stairs
+Map ID: 184 | Name: Hallway
+Map ID: 185 | Name: basement after sun
+Map ID: 186 | Name: sleepville
+Map ID: 187 | Name: fish house
+Map ID: 188 | Name: Start purple
+Map ID: 189 | Name: Start
+Map ID: 190 | Name: Hallway purp
+Map ID: 191 | Name: Research Station
+Map ID: 192 | Name: Power room
+Map ID: 193 | Name: Prophet house
+Map ID: 194 | Name: backroom
+Map ID: 195 | Name: extra hallway
+Map ID: 196 | Name: backhall
+Map ID: 197 | Name: collapse
+Map ID: 198 | Name: POSTGAME green
+Map ID: 199 | Name: Gate
+Map ID: 200 | Name: Dock
+Map ID: 201 | Name: rue
+Map ID: 202 | Name: Ruins In
+Map ID: 203 | Name: Maize
+Map ID: 204 | Name: Birdhall
+Map ID: 205 | Name: Courtyard
+Map ID: 206 | Name: passage
+Map ID: 207 | Name: POSTGAME RED SKY
+Map ID: 208 | Name: mines exit
+Map ID: 209 | Name: Fishing hut
+Map ID: 210 | Name: protowalk
+Map ID: 211 | Name: Junction
+Map ID: 212 | Name: passage_boat
+Map ID: 213 | Name: landing
+Map ID: 214 | Name: City gate
+Map ID: 215 | Name: Elevator deck
+Map ID: 216 | Name: Office
+Map ID: 217 | Name: entry room
+Map ID: 218 | Name: Power room
+Map ID: 219 | Name: Cafe
+Map ID: 220 | Name: Cafe inside
+Map ID: 221 | Name: stairwell
+Map ID: 222 | Name: locked room
+Map ID: 223 | Name: store pan
+Map ID: 224 | Name: FINALE
+Map ID: 225 | Name: observation deck
+Map ID: 226 | Name: Summit
+Map ID: 227 | Name: POSTGAME RED GROUND
+Map ID: 228 | Name: To Tower
+Map ID: 229 | Name: X room
+Map ID: 230 | Name: ground 2
+Map ID: 231 | Name: ground 1
+Map ID: 232 | Name: backalley
+Map ID: 233 | Name: Library entrance
+Map ID: 234 | Name: fish house
+Map ID: 235 | Name: Photo center
+Map ID: 236 | Name: stairwell
+Map ID: 237 | Name: Lobby
+Map ID: 238 | Name: Power room
+Map ID: 239 | Name: burial grounds PLANE FIXED
+Map ID: 240 | Name: Forest w/ bridges
+Map ID: 241 | Name: Tv room
+Map ID: 242 | Name: Encounter
+Map ID: 243 | Name: Credits
+Map ID: 244 | Name: Forest DOTN USE THIS
+Map ID: 245 | Name: X room
+Map ID: 246 | Name: squrz
+Map ID: 247 | Name: SQUARES BE GONE
+Map ID: 248 | Name: server room
+Map ID: 249 | Name: study
+Map ID: 250 | Name: Gate
+Map ID: 251 | Name: Birdhall
+Map ID: 252 | Name: Elevator deck
+Map ID: 253 | Name: Bed room
+Map ID: 254 | Name: sleepville
+Map ID: 255 | Name: Last room
+Map ID: 256 | Name: Docks
+Map ID: 257 | Name: ground 2
+Map ID: 258 | Name: Memory
+Map ID: 259 | Name: Post Encounter
+Map ID: 260 | Name: locked room
+Map ID: 261 | Name: pshot
+Map ID: 262 | Name: language debug
+Map ID: 263 | Name: pshot
