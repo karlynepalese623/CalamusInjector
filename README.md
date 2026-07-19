@@ -41,3 +41,12 @@
 - Press `R` in-game to toggle the mod menu UI.
 - Use your ACTION keybind to navigate.
 - Enjoy and tinker around! :D
+
+Preview:
+<img width="645" height="512" alt="image" src="https://github.com/user-attachments/assets/b61a4687-eced-4cef-be44-87d8dead9707" />
+
+Diagnostics UI
+<img width="639" height="511" alt="image" src="https://github.com/user-attachments/assets/e58905ad-a0d0-4355-9c36-96fce72d037c" />
+
+Item ID UI
+<img width="639" height="507" alt="image" src="https://github.com/user-attachments/assets/9caf01d1-be7c-46e7-b5f3-aabe69471f38" />
