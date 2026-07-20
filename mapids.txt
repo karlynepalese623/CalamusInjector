@@ -14,6 +14,12 @@ Map ID 4 is the living room of the starting place.
 Map ID 5 is the basement stairs of the starting place.
 Map ID 6 is like another place for when you get the lightbulb?
 Map ID 7 is ... i dont know either. like how The Glen has like those weird holes in the ground, that typa pattern. Eliza just makin shit bro
+Map ID 8 is similiar to Map ID 7
+Map ID 9 is similiar to Map ID 8, but on coordinates `18, 36`, theres a lil :3 face, Next to the cat face, coordinates 50, 37, i dont know what it is, seems like a cat?
+Map ID 10 is just clouds.
+Map ID 11 is self-explanatory. Debug map.
+Map ID 12 is in The Barrens near the Entrance.
+Map ID 13 is in The Barrens in the terminal room.
 
 More IDs to be tested soon!
 
